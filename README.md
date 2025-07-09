@@ -6,7 +6,6 @@
 
 It features a clean UI, color-coded inventory indicators, real-time stock tracking, and a modular code structure designed for easy maintenance and scalability.
 
----
 
 ## Features
 
@@ -38,7 +37,6 @@ It features a clean UI, color-coded inventory indicators, real-time stock tracki
 - Readable labels and layout
 - Color-coded rows in the inventory sheet based on stock status
 
----
 
 ## How to Use
 
@@ -70,8 +68,6 @@ It features a clean UI, color-coded inventory indicators, real-time stock tracki
   - `cmdAddProduct`
   - `cmdClose`
 
----
-
 ### Sales Processing Form (`frmSalesProcessing`)
 
 **Controls:**
@@ -83,8 +79,6 @@ It features a clean UI, color-coded inventory indicators, real-time stock tracki
   - `cmdProcessSale`
   - `cmdClose`
 
----
-
 ## Commands
 
 Use these commands in the VBA Immediate Window (`Ctrl + G`):
@@ -94,8 +88,6 @@ Use these commands in the VBA Immediate Window (`Ctrl + G`):
 - `ColorCodeInventory` – Applies color coding to inventory
 - `GenerateInventoryReport` – Creates a printable report
 
----
-
 ## Code Highlights
 
 - Modular structure (separate functions for setup, UI, processing)
@@ -104,15 +96,11 @@ Use these commands in the VBA Immediate Window (`Ctrl + G`):
 - Full error handling
 - No external dependencies or add-ins
 
----
-
 ## Requirements
 
 - Microsoft Excel 2016 or later
 - Macros enabled
 - Basic VBA knowledge (for customization)
-
----
 
 ## Contact
 
