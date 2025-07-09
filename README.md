@@ -6,6 +6,7 @@
 
 It features a clean UI, color-coded inventory indicators, real-time stock tracking, and a modular code structure designed for easy maintenance and scalability.
 
+![image](https://github.com/user-attachments/assets/4829f054-54ec-474d-aa5f-e824a2dd7a80)
 
 ## Features
 
